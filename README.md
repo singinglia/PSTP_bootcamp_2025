@@ -1,6 +1,6 @@
 # PSTP Bootcamp 2025
 
-Welcome to the course website for the 2024 PSTP Bioinformatics Bootcamp!<br />
+Welcome to the course website for the 2025 PSTP Bioinformatics Bootcamp!<br />
 
 ![HomeImage](https://imgs.xkcd.com/comics/dna.png)
 
