@@ -24,14 +24,15 @@ Questions or concerns? Please reach out by email.
 | ------------- | ------------- |------------- |------------- |------------- |
 |  | **Week 1**   | **Basics**: *Tools and environments for bioinformatics*  |  |  | 
 | 1  | 03/31/2025  | **Module 1**: Accessing HPC and running 3rd party tools  | [Day_1](https://github.com/cartercompbio/PSTP_bootcamp_2024/tree/main/Modules/Day_1)  | TAs | 
-| 2  | 04/02/2025  | **Module 2**: Command Line Tutorial | Day_3  | TAs | 
-| 3  | 04/03/2025  | **Module 3**: Basic Programming | Day_4  | TAs |
-| 4  | 04/04/2025  | **Module 4**: NDex and Cytoscape | [Day_6](https://github.com/PSTP_bootcamp_2025)  | TAs | 
-|  | **Week 2**  | **Resources and Advanced Workflows**: *Introduction to campus resources for computational research*  |  |  | 
-| 4  | 04/07/2025  | **Module 5**: Working with High C Data | [Day_6](https://github.com/PSTP_bootcamp_2025)  |Alex Jambor | 
-| 5  | 04/09/2025  | **Module 6**: Single Cell Tutorial  | [Day_7](https://github.com/PSTP_bootcamp_2024)  | TAs  | 
-| 6  | 04/10/2025  |**Project Work** | [Day_8](https://github.com/PSTP_bootcamp_2024)  | TAs |
-| 7  | 04/11/2025 | **Project Work**  | [Day_9](https://github.com/PSTP_bootcamp_2024)  | TAs |
+| 2  | 04/021/2025  | **Project Work** | NA  | TAs | 
+| 3  | 04/02/2025  | **Module 2**: Command Line Tutorial | Day_3  | TAs | 
+| 4  | 04/03/2025  | **Module 3**: Basic Programming | Day_4  | TAs |
+| 5  | 04/04/2025  | **Module 4**: NDex and Cytoscape | [Day_6](https://github.com/PSTP_bootcamp_2025)  | Dexter Pratt | 
+|  | **Week 2**  | **Specific Project Work**: *Introduction to campus resources for computational research*  |  |  | 
+| 6  | 04/07/2025  | **Module 5**: Working with High C Data | [Day_6](https://github.com/PSTP_bootcamp_2025)  |Alex Jambor | 
+| 7  | 04/08/2025  | **Module 6**: Single Cell Tutorial  | [Day_7](https://github.com/PSTP_bootcamp_2024)  | TAs  | 
+| 8  | 04/09/2025  |**Project Work** | NA | TAs |
+| 9  | 04/11/2025 | **Project Work**  | NA  | TAs |
 
 Extra time will be used for the submitted projects.
 
